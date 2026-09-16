@@ -1,0 +1,6 @@
+{
+  "name": "Rang-e-Bharat",
+  "description": "Explore the Rich Culture and Heritage of India - discover stories, traditions, festivals, food, art, history, people and places.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
